@@ -33,7 +33,7 @@ Admin
   2. Start Xampp or Wamp local server.
   3. Import 'hospitalmanagementsystem.sql' database in http://localhost/phpmyadmin .
   4. Move files in htdocs or www folder in your localserver folder. 
-  5. Open browser and go to http://localhost/OnlineFoodOrdering/admin/dashboard/login for the admin dashboard.
+  5. Open browser and go to http://localhost/hospitalmanagementsystem for the admin dashboard.
   6. find admin password in database.
   
 
