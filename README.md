@@ -31,7 +31,7 @@ Admin
 ### How to Setup
   1. Download Xampp or Wamp local server.
   2. Start Xampp or Wamp local server.
-  3. Import 'conchos_sisig.sql' database in http://localhost/phpmyadmin .
+  3. Import 'hospitalmanagementsystem.sql' database in http://localhost/phpmyadmin .
   4. Move files in htdocs or www folder in your localserver folder. 
   5. Open browser and go to http://localhost/OnlineFoodOrdering/admin/dashboard/login for the admin dashboard.
   6. find admin password in database.
